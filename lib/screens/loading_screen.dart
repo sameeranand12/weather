@@ -24,7 +24,7 @@ class _LoadingScreenState extends State<LoadingScreen> {
             //Get the current location
             geoLocation();
           },
-          child: Text('Get Location of Device'),
+          child: Text('Device Location'),
         ),
       ),
     );
